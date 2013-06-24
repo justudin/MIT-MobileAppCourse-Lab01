@@ -1,2 +1,3 @@
-AITI MIT Indonesia Summer 2013 - First Test Assignment Java
-Contact me : <just.udin@yahoo.com>
+AITI MIT Indonesia Summer 2013 - Answer of Java Assessment Test  
+
+Contact Me : <just.udin@yahoo.com>
