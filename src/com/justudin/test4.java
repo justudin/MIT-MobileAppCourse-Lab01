@@ -4,6 +4,7 @@ public class test4 {
 	public static void main(String[] args){
 		int[] aArr = {1,2,3,4,5};
 		int[] rArr = reduce(aArr);
+		
 		for(int b=1;b<rArr.length;b++)
 		{
 			System.out.print(rArr[b]+" ");
